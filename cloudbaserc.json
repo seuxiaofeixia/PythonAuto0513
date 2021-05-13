@@ -7,8 +7,8 @@
       "container": {
         "use": "@cloudbase/framework-plugin-container",
         "inputs": {
-          "serviceName": "python-hello-world0513-modify",
-          "servicePath": "/python-hello-world0513-modify",
+          "serviceName": "python-hello-world0513",
+          "servicePath": "/python-hello-world0513",
           "containerPort": 8080
         }
       }
